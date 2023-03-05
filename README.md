@@ -19,4 +19,5 @@
 
 ## Contacts
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hwan4488@gmail.com)](mailto:hwan4488@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hwan4488@gmail.com)](mailto:hwan4488@gmail.com)<br/>
+<a href="https://www.notion.so/8784ce48144e4e59b5594e9d7302a779" target="_blank"><img src="https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=Notion&logoColor=black"></a>
