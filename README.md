@@ -13,7 +13,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyhoyhk&show_icons=true&theme=default)    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oyhoyhk)](https://solved.ac/oyhoyh/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyhoyhk&show_icons=true&theme=default)    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oyhoyhk)](https://solved.ac/oyhoyhk/)
 
 ---
 
