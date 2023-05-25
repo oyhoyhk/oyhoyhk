@@ -13,6 +13,7 @@
 
 ---
 
+[![yooh's 42 stats](https://badge42.vercel.app/api/v2/clewoa07i00110gmhqbu5bqlw/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyhoyhk&show_icons=true&theme=default)    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oyhoyhk)](https://solved.ac/oyhoyhk/)
 
 ---
