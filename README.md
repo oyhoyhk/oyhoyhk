@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=193549&height=200&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!%20yooh%EC%9E%85%EB%8B%88%EB%8B%A4!&fontColor=ffffff&fontSize=40&animation=fadeIn)
 
-## Skils
+## Skills
 
 #### Languages
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/-c++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/c-a8b9cc?style=for-the-badge&logo=c&logoColor=white"> <br /><br />
